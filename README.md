@@ -1,4 +1,4 @@
-# Hi 👋, I'm Brian Helbig
+# Hi 👋, I'm Brian
 ### Passionate for technology with a desire to create impactful applications, I am a software engineer with a background in Physics and Math.
 
 ### 📫 me: 
