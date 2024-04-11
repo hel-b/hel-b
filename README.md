@@ -2,7 +2,7 @@
 ### Passionate for technology with a desire to create impactful applications, I am a software engineer with a background in Physics and Math.
 
 ### 📫 me: 
-**helb.b@proton.me**
+**brian@cyberalcove.com**
 
 ### Connect with me:
 
