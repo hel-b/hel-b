@@ -13,9 +13,9 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width=400>
       <a href="https://www.cyberalcove.com">
-        <img src="https://www.cyberalcove.com/og-image.jpg" alt="Cyberalcove Portfolio" width="100%"/>
+        <img src="https://www.cyberalcove.com/og-image.jpg" alt="Cyberalcove Portfolio" width=400/>
       </a>
       <br/>
       <br/>
