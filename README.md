@@ -11,24 +11,27 @@
 
 ### 💼 Portfolio
 
-<div style="width: 400px;  border-radius: 12px; overflow: hidden; border: 1px solid #1d5f83ab; box-shadow: 3px 5px 12px rgba(33, 132, 185, 0.45);">
-  <figure style="margin: 0;">
-    <a href="https://www.cyberalcove.com">
-      <img src="https://www.cyberalcove.com/og-image.jpg" alt="Cyberalcove Portfolio" style="width: 100%; display: block;"/>
-    </a>
-  </figure>
-  <div style="padding: 20px;">
-    <h3 style="margin: 0 0 10px 0; font-size: 1.25rem; font-weight: 600;">
-      <a href="https://www.cyberalcove.com" style="text-decoration: none;">Cyberalcove</a>
-    </h3>
-    <p style="margin: 0 0 15px 0; font-size: 0.95rem;">
-      Helping clients elevate their digital presence
-    </p>
-    <div style="text-align: right;">
-      <a href="https://www.cyberalcove.com" style="display: inline-block; padding: 8px 16px; text-decoration: none; border-radius: 6px; font-weight: 500; border: 1px solid #0077B5;">Visit Site</a>
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.cyberalcove.com">
+        <img src="https://www.cyberalcove.com/og-image.jpg" alt="Cyberalcove Portfolio" width="100%"/>
+      </a>
+      <br/>
+      <br/>
+      <a href="https://www.cyberalcove.com"><strong>Cyberalcove</strong></a>
+      <br/>
+      <em>Helping clients elevate their digital presence</em>
+      <br/>
+      <br/>
+      <a href="https://www.cyberalcove.com">
+        <img src="https://img.shields.io/badge/Visit_Site-0077B5?style=for-the-badge&logoColor=white" alt="Visit Site"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### Language and tools:
 
